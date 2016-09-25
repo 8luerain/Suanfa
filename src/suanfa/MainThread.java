@@ -54,7 +54,17 @@ public class MainThread {
 
 		// -----------------------------String≤‚ ‘
 
-		System.out.println(StringSuanfa.revertEveryChar("abgcde"));
+//		System.out.println(StringSuanfa.revertEveryChar("abg  cde"));
+//		StringSuanfa.stringRevert("abg     cde");
+//		System.out.println(StringSuanfa.stringRevert("I'am a student."));
+
+//		System.out.println(StringSuanfa.replce("a b c", "2000%"));
+//		System.out.println(StringSuanfa.checkString_kuohao("String s = ()a()"));
+		
+		
+		/*---------------------------Stack Queue ≤‚ ‘*/
+		
+		
 
 	}
 
